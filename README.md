@@ -1,2 +1,0 @@
-# Harish Deepak
-index.html
